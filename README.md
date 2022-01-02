@@ -1,0 +1,1 @@
+# Land-Cover-Classification-of-the-Gaza-Strip-in-R
