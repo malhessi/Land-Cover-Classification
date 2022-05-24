@@ -1,7 +1,7 @@
 # Access to Dataset
 The training dataset is created based on the Sentinel-2 Satellite Image of the Gaza Strip. The four steps in my script explain into detail how to build the training dataset by few processing steps of the satellite image. If you want to follow all steps from the scratch, you should download the satelite image as explained below. But if you just want to test the script on the already extracted traing data, you can skip the first four steps in the script and start directly from Step 5. The training dataset is stored in the file `data.rda`. You can find this data file in the `data` folder.
 
-## Down;load the Satellite Image
+## Download the Satellite Image
 1) Download the Satellite Sentinel-2 Image from the following link:
    https://scihub.copernicus.eu/dhus/odata/v1/Products('cc447968-a42c-49b0-a4f1-08936b64ca6b')/$value
 2) If username or password is required, please use the following credentials:
